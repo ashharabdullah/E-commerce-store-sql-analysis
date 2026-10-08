@@ -1,5 +1,5 @@
-drop table if exists zepto;
 
+--Creating table
 create table zepto (
 sku_id SERIAL PRIMARY KEY,
 category VARCHAR(120),
